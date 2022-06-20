@@ -5,6 +5,13 @@
 
 - Ruby
 
+## Getting Started
+
+To get a local copy up and running follow these simple example steps:
+
+- Go to the folder where you want to store the project, and clone the repository:
+- SSH: https://github.com/zkr024/schoolLibrary.git
+
 
 ## Author
 
