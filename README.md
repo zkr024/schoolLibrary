@@ -11,9 +11,8 @@ To get a local copy up and running follow these simple example steps:
 
 - Go to the folder where you want to store the project, and clone the repository:
 - SSH: https://github.com/zkr024/schoolLibrary.git
-- To test the files, you can run the following command in the terminal
+- To test any ruby file, you can run the following command in the terminal:
  > ruby file_Name.rb
-- ↑ That will help you test the code
 
 
 ## Author
