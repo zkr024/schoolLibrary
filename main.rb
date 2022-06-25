@@ -1,4 +1,5 @@
 require './app'
+require 'pry'
 
 @menu = [
   { value: '1', message: 'List all books' },
@@ -59,7 +60,7 @@ def main
               puts "#{permission} is not a valid entry, try again"
               permission = gets.chomp
             end
-            data.add_student(age, name, permission, classroom)
+            data = add_student(age, name, permission, classroom)
           when '2'
             print 'Age: '
             age = gets.chomp
