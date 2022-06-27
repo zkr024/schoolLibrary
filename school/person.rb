@@ -1,6 +1,6 @@
-require './nameable'
-require './decorator'
-require './rental'
+require_relative '../correctName/nameable'
+require_relative '../correctName/decorator'
+require_relative './rental'
 class Person < Nameable
   attr_accessor :name, :age, :rentals
   attr_reader :id
