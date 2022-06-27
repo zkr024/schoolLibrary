@@ -1,6 +1,4 @@
 require_relative '../school/rental'
-# require_relative '../school/book'
-# require_relative '../school/person'
 require_relative './rental_path'
 require_relative './filter_data'
 
