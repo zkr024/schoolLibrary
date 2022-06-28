@@ -23,13 +23,17 @@ To get a local copy up and running follow these simple example steps:
 - Twitter: [@twitterhandle](https://twitter.com/zkr024)
 - LinkedIn: [LinkedIn](www.linkedin.com/in/oscar-bermudez-07908222a)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zkr024&show_icons=true&locale=en&theme=dark" alt="zkr024" /></p>
+
 👤 Firdavs Allamurotov
 
 - GitHub: [@fed1k](https://github.com/fed1k)
 - Twitter: [@Firdavs](https://twitter.com/FirdavsDev)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/firdavs-allamurotov/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zkr024&show_icons=true&locale=en" alt="zkr024" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fed1k&show_icons=true&locale=en" alt="fed1k" /></p>
+
+
 
 ## 🤝 Contributing
 
