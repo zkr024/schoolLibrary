@@ -1,9 +1,9 @@
 require 'json'
 require_relative '../school/book'
 
-@file_book = File.read('./data/book.json')
-
 def book_data(book)
+  File.write('./data/book.json', JSON.pretty_generate([])) unless File.exists?('./data/book.json')
+  @file_book = File.read('./data/book.json')
   return if @file_book.empty?
 
   data_book = JSON.parse(@file_book)
