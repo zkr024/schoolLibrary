@@ -3,7 +3,7 @@ def option_one
   @age = gets.chomp
   print 'Name: '
   name_data = gets.chomp
-  @name = name_data.strip.slice(0, 10).capitalize
+  @name = name_data.strip.capitalize
   print 'Classroom: '
   @classroom = gets.chomp
   print 'Has parent permission? [Y/N]: '
@@ -21,7 +21,7 @@ def option_two
   @age = gets.chomp
   print 'Name: '
   name_data = gets.chomp
-  @name = name_data.strip.slice(0, 10).capitalize
+  @name = name_data.strip.capitalize
   print 'Specialization: '
   @specialization = gets.chomp
 end
