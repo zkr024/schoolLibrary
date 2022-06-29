@@ -1,5 +1,5 @@
 require './menu/menu'
-require './functions/data'
+require './functions/record'
 require './functions/add_person'
 require './functions/add_book'
 require './functions/add_rental'
@@ -11,7 +11,7 @@ require './saveData/save_data'
 
 
 def app
-  data = Data.new
+  data = Record.new
   load_data(data.book, data.person, data.rentals)
 
   loop do
