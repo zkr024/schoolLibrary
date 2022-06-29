@@ -14,10 +14,10 @@
     "specialization": "Math"
   },
   {
-    "name": "Martha",
-    "age": "65",
-    "id": 418,
-    "profession": "Teacher",
-    "specialization": "Science"
+    "name": "Daniela",
+    "age": "21",
+    "id": 204,
+    "profession": "Student",
+    "classroom": "12b"
   }
 ]
