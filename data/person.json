@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Adriana",
+    "age": 15,
+    "id": 24,
+    "profession": "Student",
+    "classroom": 11
+  },
+  {
+    "name": "Michael",
+    "age": 45,
+    "id": 357,
+    "profession": "Teacher",
+    "specialization": "Math"
+  },
+  {
+    "name": "Daniela",
+    "age": "21",
+    "id": 204,
+    "profession": "Student",
+    "classroom": "12b"
+  }
+]
